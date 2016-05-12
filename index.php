@@ -4,9 +4,9 @@
 <!--=============== basic  ===============-->
 
 	<meta charset="UTF-8">
-	<title>Klif. Responsive Coming Soon Template</title>
-	<meta name="description" content="Your website description here">
-	<meta name="keywords" content="your, website, keywords, here">
+	<title>Martijnet</title>
+	<meta name="description" content="Personal website">
+	<meta name="keywords" content="Martijn Posthuma, Martijn, Posthuma, Personal information">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	
 <!--=============== css  ===============-->	
@@ -48,19 +48,19 @@
 			<!-- Slide 1 -->
 				
 			<li>		
-				<div style="background-image: url('img/bg.jpg');" class="slides-fullscreen-img"></div>
+				<div style="background-image: url('img/bg1.jpg');" class="slides-fullscreen-img"></div>
 			</li>
 					
 			<!-- Slide 2 -->
 					
 			<li>
-				<div style="background-image: url('img/bg.jpg');" class="slides-fullscreen-img"></div>
+				<div style="background-image: url('img/bg2.jpg');" class="slides-fullscreen-img"></div>
 			</li>
 	
 			<!-- Slide 3 -->
 					
 			<li>	
-				<div style="background-image: url('img/bg.jpg');" class="slides-fullscreen-img"></div>
+				<div style="background-image: url('img/bg2.jpg');" class="slides-fullscreen-img"></div>
 			</li>
 				
 		</ul>
@@ -84,7 +84,7 @@
 										
 						<div class="content"> 
 	
-							<h2>About us</h2>    
+							<h2>About me</h2>
 							<div class="small-separator"></div>                       	
 			
 							<p class="align-just"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros justo, in pulvinar neque congue eu. Fusce gravida pharetra leo, in consequat sapien bibendum eleifend. Duis suscipit purus at mollis varius. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> 
@@ -125,7 +125,7 @@
 							 
 								<ul class="countdown">
 									<li>
-										<span class="days rot">00</span>
+										<span class="days rot">78</span>
 										<p class="days_ref">days</p>			
 									</li>
 									<li>
@@ -144,7 +144,7 @@
 								</ul>
 									
 			
-							<h3>OUR WEBSITE IS COMING SOON</h3>
+							<h3>MY WEBSITE IS COMING SOON</h3>
  
 						</div> 
 						             

@@ -60,7 +60,7 @@
 			<!-- Slide 3 -->
 					
 			<li>	
-				<div style="background-image: url('img/bg2.jpg');" class="slides-fullscreen-img"></div>
+				<div style="background-image: url('img/bg3.jpg');" class="slides-fullscreen-img"></div>
 			</li>
 				
 		</ul>

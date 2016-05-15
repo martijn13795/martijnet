@@ -107,16 +107,14 @@
 							<h2>About me</h2>
 							<div class="small-separator"></div>                       	
 			
-							<p class="align-just"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros justo, in pulvinar neque congue eu. Fusce gravida pharetra leo, in consequat sapien bibendum eleifend. Duis suscipit purus at mollis varius. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+							<p class="align-just">Hi I'm Martijn Posthuma</p>
 							<p class="align-just">Ut eu nisl ut purus sodales suscipit sit amet non elit. Pellentesque viverra fringilla purus ut pretium. Morbi sit amet nunc sed nibh lobortis posuere condimentum nec urna. Praesent tincidunt dictum porttitor. Cras et purus sed ipsum ullamcorper tristique.</p>
 								
 							<!--social-links -->
 								
 							<div class="social-links">
 								<ul>
-									<li><a href="#" target="_blank"  class="transition"><i class="fa fa-facebook-square"></i><span>Facebook</span></a></li>
-									<li><a href="#" target="_blank" class="transition"><i class="fa fa-dribbble"></i><span>Dribbble</span></a></li>
-									<li><a href="#" target="_blank" class="transition"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+									<li><a href="https://www.linkedin.com/in/martijnposthumainf" target="_blank"  class="transition"><i class="fa fa-linkedin"></i><span>LinkedIn</span></a></li>
 								</ul>
 							</div>
 			
@@ -183,8 +181,9 @@
 						
 							<div class="progress">
 							 
-							<input data-bgcolor="#ccc"  data-readonly=true type="text" data-width="250" data-skin="tron" data-fgcolor="#fff" data-thickness=".07" data-angleoffset="180" class="num num2" name="65" value="0">
-							<span class="percent">%</span>
+<!--							<input data-bgcolor="#ccc"  data-readonly=true type="text" data-width="250" data-skin="tron" data-fgcolor="#fff" data-thickness=".07" data-angleoffset="180" class="num num2" name="65" value="0">-->
+<!--							<span class="percent">%</span>-->
+                            <button class="loginButton">Login</button>
 							
 							</div>
 							

@@ -125,7 +125,7 @@
 							 
 								<ul class="countdown">
 									<li>
-										<span class="days rot">78</span>
+										<span class="days rot">00</span>
 										<p class="days_ref">days</p>			
 									</li>
 									<li>

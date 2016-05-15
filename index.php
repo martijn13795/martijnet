@@ -121,7 +121,7 @@
 						<span class="rotade rot-top-right"></span>
 						<span class="rotade rot-bottom-left"></span>
 						<span class="rotade rot-bottom-right"></span>  
-							<img src="img/logo.png" alt=""> 
+							<img src="img/logo.png" alt="" height="128">
 							 
 								<ul class="countdown">
 									<li>

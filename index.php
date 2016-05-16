@@ -107,8 +107,9 @@
 							<h2>About me</h2>
 							<div class="small-separator"></div>                       	
 			
-							<p class="align-just">Hi I'm Martijn Posthuma</p>
-							<p class="align-just">Ut eu nisl ut purus sodales suscipit sit amet non elit. Pellentesque viverra fringilla purus ut pretium. Morbi sit amet nunc sed nibh lobortis posuere condimentum nec urna. Praesent tincidunt dictum porttitor. Cras et purus sed ipsum ullamcorper tristique.</p>
+							<p class="align-just">Hi I'm Martijn Posthuma,</p>
+							<p class="align-just"><img src="img/Martijn.png" alt="Martijn Posthuma" style="margin-right: 10px; height: 250px; float: left;"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque augue nulla, mollis et urna sit amet, mattis porta quam. Morbi feugiat, tellus a vestibulum posuere, eros ligula sollicitudin sem, ut ultricies ligula lectus eu est. Aenean tincidunt velit ac molestie eleifend. Nam convallis nulla turpis, in varius est fermentum sit amet. Quisque facilisis elementum venenatis.</p>
+							<p class="align-just">Phasellus nunc tortor, tristique quis consequat in, efficitur non eros. Fusce quis ex a ipsum blandit aliquam sed ac est. In id dolor finibus mauris gravida efficitur. Sed eget ornare nulla, nec imperdiet mi. Sed nec nisl sit amet augue maximus molestie vitae ac ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi eget erat a purus placerat mattis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent et est facilisis, finibus libero eget, condimentum erat. Vivamus aliquam pretium felis.</p>
 								
 							<!--social-links -->
 								
@@ -139,7 +140,7 @@
 						<span class="rotade rot-top-right"></span>
 						<span class="rotade rot-bottom-left"></span>
 						<span class="rotade rot-bottom-right"></span>  
-							<img src="img/logo.png" alt="" height="128">
+							<img src="img/logo.png" alt="Martijn Posthuma" height="128">
 							 
 								<ul class="countdown">
 									<li>

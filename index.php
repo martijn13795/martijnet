@@ -232,17 +232,17 @@
 							
 								<div class="grid-2 transition">
 									<i class="fa fa-mobile fa-2x"></i>
-									<br><br> +1 (000) 123456 
+									<br><br> +31 6 12 345 678
 								</div>	
 								
 								<div class="grid-2 transition lanch-form">
 									<i class="fa fa-envelope-o fa-2x"></i> 
-									<br><br>yourmail@yuormail.com
+									<br><br>martijn13795@hotmail.com
 								</div>
 								
 								<div class="grid-2 transition">
 									<i class="fa fa-globe fa-2x"></i>
-									<br><br><a href="#" target="_blank">Heritage Park Minneapolis</a> 
+									<br><br><a href="#" target="_blank">Netherlands</a>
 								</div>
 							</div>			
 						</div>
